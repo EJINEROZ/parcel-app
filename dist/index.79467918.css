@@ -1,0 +1,32 @@
+body {
+  font-family: Work Sans, sans-serif;
+}
+
+._7pkQ9q_card {
+  width: 30%;
+  margin: auto;
+  box-shadow: 0 5px 10px #0006;
+}
+
+._7pkQ9q_img {
+  width: 100%;
+}
+
+._7pkQ9q_container {
+  padding: 30px 16px;
+  line-height: 2rem;
+}
+
+._7pkQ9q_heading {
+  font-size: 2rem;
+  font-weight: 1rem;
+}
+
+._7pkQ9q_link {
+  color: #fff;
+  background-color: #000;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=index.79467918.css.map */
